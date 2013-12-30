@@ -11,6 +11,8 @@ without their ongoing work disturbing you.
 
     $ git checkout -b <feature> <master>
     $ [make any number of commits]
+
+## After
     
     $ git checkout <master>
     $ git pull

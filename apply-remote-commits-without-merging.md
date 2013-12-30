@@ -18,6 +18,8 @@ to merge the two branches.
     $ git checkout master
     $ git merge franks-work     # will be a fast-forward
 
+## After
+
     $ git push                  # probably the next step
 
 ## Caveats

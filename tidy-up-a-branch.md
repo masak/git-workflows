@@ -12,6 +12,8 @@ Some bad commits to be skipped or improved before merging the branch
     $ git checkout <feature>
     $ git rebase -i <master>
 
+## After
+
 You can do that latter step as many times as you like. If you find yourself in
 the middle of a rebase you would like to abort, just do this:
 
