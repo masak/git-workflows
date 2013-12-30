@@ -16,4 +16,4 @@ in order.
 
 ## Caveats
 
-MIGHT_CONFLICT
+* `MIGHT_CONFLICT`

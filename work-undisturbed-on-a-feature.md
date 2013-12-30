@@ -25,4 +25,4 @@ without their ongoing work disturbing you.
 
 ## Caveats
 
-MIGHT_CONFLICT (the `rebase <master>` step)
+* `MIGHT_CONFLICT (the `rebase <master>` step)`

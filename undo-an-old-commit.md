@@ -17,4 +17,4 @@ best preserves context.
 
 ## Caveats
 
-MIGHT_CONFLICT
+* `MIGHT_CONFLICT`

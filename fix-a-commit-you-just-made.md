@@ -15,4 +15,4 @@ better one.
 
 ## Caveats
 
-REWRITE_HISTORY
+* `REWRITE_HISTORY`

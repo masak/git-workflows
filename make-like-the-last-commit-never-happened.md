@@ -12,5 +12,5 @@ That commit not to exist on the branch any more.
 
 ## Caveats
 
-REWRITE_HISTORY
-HARD_MEANS_HARD
+* `REWRITE_HISTORY`
+* `HARD_MEANS_HARD`
