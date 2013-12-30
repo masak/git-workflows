@@ -27,3 +27,15 @@ consumers. Consider establishing a naming scheme.
     $ git push -u origin public-one-v2
     $ git push -u origin public-one-v3
     $ git push -u origin public-one-v4
+
+## Variants
+
+See also `git rebase --squash` and `git merge --squash`.
+
+In fact, you can acheive the moral equivalent with the following `reset`-based
+workflow:
+
+    $ git checkout -b <public-one> <private-many>
+    $ git reset --soft <master>
+    $ git commit
+    $ git push -u origin public-one
