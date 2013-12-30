@@ -11,6 +11,12 @@ To place the tip of `<branch>` on `<commit>`.
 
     $ git branch -f <branch> <commit>
 
+## Variants
+
+    $ git checkout <branch>
+    $ git reset --hard <commit>
+
 ## Caveats
 
 * `REWRITE_HISTORY`
+* `HARD_MEANS_HARD`
