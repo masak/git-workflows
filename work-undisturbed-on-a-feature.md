@@ -20,3 +20,7 @@ without their ongoing work disturbing you.
     $ git checkout <master>
     $ git merge <feature>
     $ git branch -d <feature>
+
+## Caveats
+
+MIGHT_CONFLICT (the `rebase <master>` step)

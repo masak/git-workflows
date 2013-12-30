@@ -18,3 +18,4 @@ Three branches:
 ## Caveats
 
 REWRITE_HISTORY
+MIGHT_CONFLICT
