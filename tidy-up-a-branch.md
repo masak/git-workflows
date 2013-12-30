@@ -27,3 +27,4 @@ If you want to undo a rebase you just did, you can use the special symbol
 ## Caveat
 
 REWRITE_HISTORY
+HARD_MEANS_HARD
